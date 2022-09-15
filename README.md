@@ -14,10 +14,10 @@
 ## `To practice topics on your own like: `
 
 # HTML ✅
-# CSS ✅
 
 ![inbound7897583976481331440](https://user-images.githubusercontent.com/99415473/190515384-addea3f5-d2b0-4fe1-a8f9-35c556f6fc93.jpg)
 
+# CSS ✅
 ![inbound3456203145736278131](https://user-images.githubusercontent.com/99415473/190515401-de027359-2144-41bc-aae3-dcd967f6baa7.jpg)
 
 
