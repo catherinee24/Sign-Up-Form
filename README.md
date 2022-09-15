@@ -15,7 +15,6 @@
 
 # HTML ✅
 
-# Selectors ✅
 
 
 # A little advice for you ❗❗❗
