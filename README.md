@@ -14,6 +14,7 @@
 ## `To practice topics on your own like: `
 
 # HTML ✅
+# CSS ✅
 
 
 
