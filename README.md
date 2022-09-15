@@ -1,4 +1,4 @@
-# Applying my knowledge in HTML and CSS? 🥇
+# Applying my knowledge in HTML and CSS 🎨
 
 -   Live Demo 💥: https://luminous-gaufre-6ae801.netlify.app
 
@@ -9,7 +9,7 @@
 2️⃣CSS
 ```
 
-# Purpose with which I did it: 💥
+# Purpose with which I did it: 🌈
 
 ## `To practice topics on your own like: `
 
